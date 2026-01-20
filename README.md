@@ -119,6 +119,7 @@ This project shows the complete data analysis process, from cleaning data in Exc
 ---
 
 ##  Project Structure
+```
 
 Bank_Customer_Transaction_Analysis/
 │
@@ -138,6 +139,6 @@ Bank_Customer_Transaction_Analysis/
 │   └── dashboard_overview.png
 │
 └── README.md
-
+```
 
 
